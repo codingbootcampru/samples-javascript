@@ -1,4 +1,4 @@
-// What will be the result?
+// What is the result?
 
 const obj1 = {
   name: 'name 1',
